@@ -52,7 +52,7 @@ Here are some of the cool projects I'm working on or have completed:
 ## 📊 GitHub Stats:
 
 ### General Stats:
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_border=false)
 
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugoyal805&layout=compact&theme=radical&hide_border=false&langs_count=20)
