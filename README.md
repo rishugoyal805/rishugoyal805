@@ -57,20 +57,17 @@ Here are some of the cool projects I'm working on or have completed:
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugoyal805&layout=compact&theme=radical&hide_border=false)
 
-### Contribution Graph:
-![Rishu's Contribution Calendar](https://github-readme-stats.vercel.app/api/wakatime?username=rishugoyal805&theme=radical&hide_border=true)
-
 ### Streak Stats:
 ![Rishu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishugoyal805&theme=radical)
 
 ### Top Repositories:
-![Top Repositories](https://github-readme-stats.vercel.app/api/top-repo-stats/?username=rishugoyal805&theme=radical&hide_border=true)
+![Top Repositories](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ### Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=rishugoyal805&label=Profile%20Views&color=blue&style=flat)
 
 ### Activity Graph:
-![Rishu's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rishugoyal805&theme=github)
+![Rishu's Activity Graph](https://github-readme-stats.vercel.app/api?username=rishugoyal805&count_private=true&hide_border=true&theme=radical)
 
 ### Trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=rishugoyal805&theme=radical&row=1&column=3&margin-w=15&margin-h=15)](https://github.com/rishugoyal805)
