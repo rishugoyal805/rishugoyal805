@@ -62,9 +62,6 @@ Here are some of the cool projects I'm working on or have completed:
 ### Top Repositories:
 ![Top Repositories](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide=prs&count_private=true&hide_border=true&theme=radical&hide_border=false)
 
-### Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=rishugoyal805&label=Profile%20Views&color=blue&style=flat&hide_border=false)
-
 ### Activity Graph:
 ![Rishu's Activity Graph](https://github-readme-stats.vercel.app/api?username=rishugoyal805&count_private=true&hide_border=true&theme=radical&hide_border=false)
 
