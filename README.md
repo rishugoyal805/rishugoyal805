@@ -55,7 +55,7 @@ Here are some of the cool projects I'm working on or have completed:
 ![Commit Activity](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugoyal805&layout=compact&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugoyal805&layout=compact&theme=radical&hide_border=false&langs_count=20)
 
 ### Streak Stats:
 ![Rishu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishugoyal805&theme=radical)
