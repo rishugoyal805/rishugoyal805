@@ -58,19 +58,19 @@ Here are some of the cool projects I'm working on or have completed:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishugoyal805&layout=compact&theme=radical&hide_border=false&langs_count=20)
 
 ### Streak Stats:
-![Rishu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishugoyal805&theme=radical)
+![Rishu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishugoyal805&theme=radical&hide_border=false)
 
 ### Top Repositories:
-![Top Repositories](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Top Repositories](https://github-readme-stats.vercel.app/api?username=rishugoyal805&show_icons=true&hide=prs&count_private=true&hide_border=true&theme=radical&hide_border=false)
 
 ### Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=rishugoyal805&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=rishugoyal805&label=Profile%20Views&color=blue&style=flat&hide_border=false)
 
 ### Activity Graph:
-![Rishu's Activity Graph](https://github-readme-stats.vercel.app/api?username=rishugoyal805&count_private=true&hide_border=true&theme=radical)
+![Rishu's Activity Graph](https://github-readme-stats.vercel.app/api?username=rishugoyal805&count_private=true&hide_border=true&theme=radical&hide_border=false)
 
 ### Trophies:
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rishugoyal805&theme=radical&row=1&column=3&margin-w=15&margin-h=15)](https://github.com/rishugoyal805)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rishugoyal805&theme=radical&row=1&column=3&margin-w=15&margin-h=15&hide_border=false)](https://github.com/rishugoyal805)
 
 
 
