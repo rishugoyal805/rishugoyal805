@@ -43,7 +43,7 @@ I'm always expanding my toolkit and learning new technologies.
 ## 📂 Projects:
 Here are some of the cool projects I'm working on or have completed:
 
-- **[Jaypee Learning Hub](https://yourwebsite.com](https://jaypeelearninghub.great-site.net/index.php)**: Jaypee Learning Hub is a platform providing organized study resources like notes, lab materials, and previous year question papers, designed to make learning easier for students. It’s regularly updated and accessible on any device for a smooth studying experience.
+- **[Jaypee Learning Hub](https://jaypeelearninghub.great-site.net/index.php)**: Jaypee Learning Hub is a platform providing organized study resources like notes, lab materials, and previous year question papers, designed to make learning easier for students. It’s regularly updated and accessible on any device for a smooth studying experience.
 - **[E-Commerce Platform](https://github.com/rishugoyal805/E-Commerce-Platform.git)**: E-Commerce Platform is a robust online shopping solution developed using C++, offering features like product listings, cart management, and secure checkout. It provides a seamless shopping experience with a focus on performance and efficiency.
 
 ---
