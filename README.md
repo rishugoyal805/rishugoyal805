@@ -62,7 +62,8 @@ Here are some of the cool projects I'm working on or have completed:
 ### Trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=rishugoyal805&theme=radical&row=1&column=3&margin-w=15&margin-h=15&hide_border=false)](https://github.com/rishugoyal805)
 
-
+### 📈 Contribution Graph
+[![Rishu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishugoyal805&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
