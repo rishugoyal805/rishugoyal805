@@ -47,7 +47,7 @@ Here are some of the cool projects I'm working on or have completed:
 - **[E-Commerce Platform](https://github.com/rishugoyal805/E-Commerce-Platform.git)**: E-Commerce Platform is a robust online shopping solution developed using C++, offering features like product listings, cart management, and secure checkout. It provides a seamless shopping experience with a focus on performance and efficiency.
 
 ---
-
+ 
 ## 📊 GitHub Stats:
 
 ### General Stats:
