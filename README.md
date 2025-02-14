@@ -8,7 +8,7 @@ I'm a passionate and driven **B.Tech CSE (2nd Year)** student with a deep intere
 - 💻 Working on personal and collaborative projects to gain practical experience in **real-time data systems**.
 - 👥 Volunteer at **AIML Hub**, organizing events and workshops to help students learn AI and machine learning.
 
----
+--- 
 
 ## 🌐 Socials:
 <div>
