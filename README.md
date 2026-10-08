@@ -48,6 +48,7 @@ Here are some of the cool projects I'm working on or have completed:
 
 ---
  
+<!--
 ## 📊 GitHub Stats:
 
 ### General Stats:
@@ -64,6 +65,13 @@ Here are some of the cool projects I'm working on or have completed:
 
 ### 📈 Contribution Graph
 [![Rishu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishugoyal805&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+-->
+
+## 📊 GitHub Activity
+🔗 [View my repositories](https://github.com/rishugoyal805?tab=repositories)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishugoyal805&color=blueviolet&style=flat-square)
 
 ---
 
